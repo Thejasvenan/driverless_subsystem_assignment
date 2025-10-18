@@ -41,10 +41,10 @@ The trained model demonstrates high performance and meets the requirements for a
 
 The learning curves below show that the model's loss decreased steadily while the performance metrics (precision, recall, mAP) increased and stabilized, indicating a successful training process.
 
-![Training Results](./cone_detection/training results/results.png)
+![Training Results](./cone_detection/training%20results/results.png)
 
 #### Class Separation
 
 The confusion matrix below demonstrates a clear separation between the `blue` and `yellow` cone classes, with very few misclassifications. This confirms the model's ability to reliably distinguish between the two types of cones.
 
-![Confusion Matrix](./cone_detection/training results/confusion_matrix.png)
+![Confusion Matrix](./cone_detection/training%20results/confusion_matrix.png)
